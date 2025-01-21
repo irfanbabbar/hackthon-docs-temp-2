@@ -1,0 +1,38 @@
+Hackathon Day 3 Complete! 
+Today’s journey was all about API Integration and Data Migration—taking another step closer to building a functional and dynamic marketplace backend. 
+
+🔍 What I Accomplished:
+1️⃣ Tested API endpoints from Hackathon API using Postman.
+2️⃣ Transformed and migrated the external API data into Sanity CMS, ensuring seamless backend integration.
+3️⃣ Enhanced the Sanity schema with additional fields like tags, dimensions, and categories, and created dynamic references between products and categories.
+4️⃣ Successfully imported product images using the Sanity Asset Manager, resolving challenges like large file handling with buffered uploads.
+5️⃣ Rendered the migrated data on the frontend for a fully functional view!
+
+💡 Key Learnings:
+Leveraged axios for fetching external data and slugify for clean slugs.
+Developed reusable backend functions for optimized queries, such as fetching all products, popular items, and detailed product views by slug.
+Overcame schema mismatches and ensured data integrity with detailed validation checks.
+
+⚡️ Challenges Overcome:
+Managed large image files during migration.
+Mapped and transformed complex API fields to the Sanity schema.
+Batched requests for efficiency and error-free imports.
+
+✅ The Result:
+A backend ready to support a dynamic marketplace!
+Seamlessly imported and verified data in Sanity CMS Studio, now live and rendering accurately in the frontend.
+
+✨ Next Steps:
+Automating schema validation, setting up detailed logging, and exploring real-time data syncing with Sanity webhooks to make this system even more robust.
+
+📖 Every day brings new challenges and learning opportunities! Thankful to the hashtag
+hashtag#Hackathon community and the mentors guiding us along this exciting journey.
+
+
+🚀 Let's keep building! hashtag
+hashtag#Hackathon hashtag
+hashtag#SanityCMS hashtag
+hashtag#Nextjs hashtag
+hashtag#APIIntegration hashtag
+hashtag#BackendDevelopment
+
